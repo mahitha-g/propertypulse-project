@@ -1,0 +1,49 @@
+.property-topsection {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .para {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .property-bottomsection {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .about-us {
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  .heading1 {
+    font-size: 1.5em;
+    margin-top: 10px;
+  }
+  
+  .heading2 {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  .heading3 {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  .para1,
+  .para2 {
+    margin-top: 10px;
+    line-height: 1.6;
+  }
+  
+  .image {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-left: 20px;
+  }
+  

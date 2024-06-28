@@ -1,0 +1,29 @@
+.header {
+    background-image: url("https://img.freepik.com/free-photo/3d-rendering-loft-luxury-living-room-with-bookshelf-near-bookshelf_105762-2224.jpg?t=st=1718814867~exp=1718818467~hmac=53a905ec35d26f660f4fc1d50f7be1aae56ac30aab4baeaf7725b8013ba9c300&w=1380");
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding:49px;
+    color: #fff;
+    background-size:cover;
+  }
+  
+  .header__content {
+    text-align: center;
+  }
+  
+  .header h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    color:Black;
+  }
+  
+  .header p {
+    font-size: 2rem;
+    color:Black;
+  }
+
+.main-heading {
+  font-family: bree serif;
+  font-size:90px;
+}
